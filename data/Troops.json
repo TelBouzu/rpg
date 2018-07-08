@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"members":[{"enemyId":1,"x":240,"y":444,"hidden":false},{"enemyId":1,"x":240,"y":352,"hidden":false},{"enemyId":1,"x":128,"y":444,"hidden":false},{"enemyId":1,"x":128,"y":352,"hidden":false}],"name":"インプ*4","pages":[{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[{"code":101,"indent":0,"parameters":["Actor2",4,0,2]},{"code":401,"indent":0,"parameters":["敵が多いな…。"]},{"code":401,"indent":0,"parameters":["魔力は無尽蔵ではないから注意しなくては。"]},{"code":0,"indent":0,"parameters":[]}],"span":0}]},
+{"id":2,"members":[{"enemyId":2,"x":224,"y":436,"hidden":false}],"name":"オーガ","pages":[{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[{"code":101,"indent":0,"parameters":["Actor2",4,0,2]},{"code":401,"indent":0,"parameters":["インプと同じ様にはいかなそうだな。"]},{"code":0,"indent":0,"parameters":[]}],"span":0}]}
+]
